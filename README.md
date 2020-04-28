@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis  
+# Twitter Sentiment Analysis   ( 연습용 )
 # R  
 Takes feeds from Twitter into R. The sentiment of the tweets is analysed and classified into positive, negative and neutral tweets.  
 
